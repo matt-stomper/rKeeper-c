@@ -6,4 +6,10 @@
     <RootNamespace>rKeeper_c</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="member\" />
+    <Folder Include="airn\" />
+    <Folder Include="common\" />
+    <Folder Include="course\" />
+  </ItemGroup>
 </Project>
